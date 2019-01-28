@@ -1,0 +1,16 @@
+baseURL: /
+title: "Hugo Two, a Second Attempt"
+defaultContentLanguage: en
+languages:
+  en:
+    lang: en
+    languageName: English
+    weight: 1
+MetaDataFormat: "yaml"
+theme: "hugo-two"
+googleAnalytics: "tracking-id"
+relativeURLs: true
+taxonomies:
+  category: categories
+  tag: tags
+  level: levels
