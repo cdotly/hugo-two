@@ -14,3 +14,16 @@ taxonomies:
   category: categories
   tag: tags
   level: levels
+menu:
+  main:
+  - identifier: about
+    name: about hugo
+    pre: <i class='fa fa-heart'></i>
+    url: /about/
+    weight: -110
+  - name: one
+    post: <span class='alert'>New!</span>
+    pre: <i class='fa fa-road'></i>
+    url: /one/
+    weight: -100
+sectionPagesMenu: main
