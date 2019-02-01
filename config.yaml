@@ -27,3 +27,22 @@ menu:
     url: /one/
     weight: -100
 sectionPagesMenu: main
+menu: 
+  main: 
+    - name: About
+      weight: 1 
+    - name: Docs
+      weight: 2
+    - name: Blog
+      weight: 3
+    - name: Contact
+      weight: 4
+  docs: 
+    - name: Welcome
+      weight: 1 
+    - name: Teams
+      weight: 2
+    - name: Spaces
+      weight: 3
+    - name: Files
+      weight: 4
